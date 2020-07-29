@@ -1,4 +1,4 @@
 # SEProjekt
-![Tests](https://github.com/lukaspanni/SEProjekt/workflows/UnitTest/badge.svg)
+![Tests](https://github.com/TINF18B5/SE_I_Lukas_Panni/workflows/UnitTest/badge.svg)
 
 Repository für Softwareengineering I Projekt
